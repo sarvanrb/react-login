@@ -104,8 +104,8 @@ function Login() {
                 <div className="row mt-5 pt-5">
                     <div className="col-sm-4"></div>
                     <div className="col-sm-4 border border-info rounded p-5 ">
-                        <h3 className="mb-2">Welcome to this website!</h3>
-                        <h4 className="mb-4">Login to your account</h4>
+                        <h3 className="mb-2">Welcome!</h3>
+                        <h4 className="mb-4">Login</h4>
 
                         <form onSubmit={handleSubmit}>
                             <div className="form-group" draggable="true">

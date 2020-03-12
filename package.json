@@ -1,6 +1,6 @@
 {
     "homepage": "http://sarvanrb.github.io/react-login",
-    "name": "login",
+    "name": "react-login",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
